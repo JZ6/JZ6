@@ -9,6 +9,7 @@
 **JZ6/JZ6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github.com/mozilla/gecko-dev/commits/0f7b4593e0bb7e57e571dcc96a95ff7d19fcfc58
 -->
+<div align="center">
 🫧
 
 | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>🦁</summary></details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> |
@@ -28,3 +29,4 @@ https://github.com/mozilla/gecko-dev/commits/0f7b4593e0bb7e57e571dcc96a95ff7d19f
 
 | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>👑</summary></details> | <details><summary>🔘</summary>💥</details> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+</div>
