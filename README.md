@@ -11,16 +11,33 @@ https://github.com/mozilla/gecko-dev/commits/0f7b4593e0bb7e57e571dcc96a95ff7d19f
 -->
 ### 🫧 The 10x10 Bubble Popper
 **Goal:** Find the 8 hidden emojis! 
-*Refresh the page to reset.*
 
 | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
 | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>🦁</summary></details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
 | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>🍦</summary></details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
 | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
 | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>🥑</summary></details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💎</summary></details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
 | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
 | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>👾</summary></details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>🍄</summary></details> | <details><summary>🔘</summary>💥</details> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
 | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> |
-| <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary> skateboarding_emoji</summary></details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+| <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>🛹</summary></details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
 | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>💥</details> | <details><summary>🔘</summary>👑</summary></details> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
